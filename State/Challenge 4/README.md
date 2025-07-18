@@ -1,6 +1,6 @@
 # Challenge 4 of 4: Remova State Desnecessário
 
-## Objetivo
+## Objetivo:
 
 Corrigir o comportamento inesperado ao exibir uma saudação, removendo o uso incorreto de state que está causando atraso na atualização da mensagem.
 
